@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: relecture-parallele-sous-agents
+expected_outcome: |
+  La réponse propose un skill, parce que la tâche demande une précision de la personne (le public visé),
+  qui lance trois sous-agents en parallèle, un par angle de relecture, et fusionne leurs remarques.
+  Elle ne recommande pas un agent autonome : le déroulement de la relecture ne change pas selon ce qui est trouvé.

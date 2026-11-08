@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: export-sql-hebdo-script-fixe
+expected_outcome: |
+  La réponse conclut qu'un script classique planifié (requête SQL, export vers le tableur, envoi d'email) suffit,
+  sans IA, en répondant à la première question : la tâche peut être entièrement exécutée avec du code classique.
+  Elle explique que les étapes sont prévisibles et que le résultat a toujours la même forme,
+  et dit pourquoi un agent apporterait du coût et de l'aléa sans gain.
