@@ -1,7 +1,0 @@
-schema_version: "1.1"
-name: veille-prospects-combinaison
-expected_outcome: |
-  La réponse propose une combinaison : un script pour la collecte régulière des sources, et un modèle
-  ou un agent seulement pour la partie où le choix de ce qu'il faut creuser dépend des résultats.
-  Elle passe les questions du skill dans l'ordre (script ou IA, workflow ou skill, agent) et répond à chacune.
-  Elle signale que pour apprendre quelles pistes répondent, il faut une mémoire entre exécutions et un suivi des réponses.

@@ -1,8 +1,0 @@
-schema_version: "1.1"
-name: reponse-tickets-agent
-expected_outcome: |
-  La réponse conclut qu'un agent est justifié pour répondre aux tickets, éventuellement en gardant le scénario Make
-  existant pour la classification. Elle s'appuie sur la troisième question : la tâche mobilise plusieurs compétences
-  (chercher l'information, choisir le ton, décider de passer la main) et les décisions prises en cours de route changent
-  le déroulement, ce qu'une logique « si X, alors Y » ne couvre pas. Elle prévoit des garde-fous, notamment le passage
-  à un humain, et un moyen de vérifier que l'agent fait mieux qu'un workflow.
